@@ -1,1 +1,1 @@
-# Mintlify-UI-Colon-
+# Mintlify - Documentation Website
