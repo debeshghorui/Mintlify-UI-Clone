@@ -79,7 +79,7 @@ header {
     linear-gradient(to bottom,
       rgba(8, 9, 11, 0) 30%,
       rgba(8, 9, 11, 0.85) 80%,
-      rgba(8, 9, 11, 1) 100%), url(MediaAssets/bg-dark.svg);
+      rgba(8, 9, 11, 1) 100%), url("MediaAssets/bg-dark.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -269,7 +269,7 @@ input::placeholder {
   border-radius: 1rem;
   width: 31vw;
   height: 45vh;
-  background-image: url(MediaAssets/animate-boxDiv.png);
+  background-image: url("MediaAssets/animate-boxDiv.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -279,7 +279,7 @@ input::placeholder {
   border-radius: 1rem;
   width: 31vw;
   height: 45vh;
-  background-image: url(MediaAssets/animate-boxDiv2.png);
+  background-image: url("MediaAssets/animate-boxDiv2.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -319,7 +319,7 @@ input::placeholder {
 .animatedDiv div {
   width: 100%;
   height: 60vh;
-  background-image: url(MediaAssets/Animate-boxImgScreenshot.svg.png);
+  background-image: url("MediaAssets/Animate-boxImgScreenshot.svg.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -413,7 +413,7 @@ input::placeholder {
 }
 
 .text-card {
-  background-image: url(MediaAssets/AnthropicBackground.svg);
+  background-image: url("MediaAssets/AnthropicBackground.svg");
   border-radius: 2rem;
   background-size: cover;
   background-repeat: no-repeat;
@@ -528,7 +528,7 @@ input::placeholder {
 }
 
 .BrandImg1 {
-  background-image: url(MediaAssets/brandImgCard1.png);
+  background-image: url("MediaAssets/brandImgCard1.png");
   border-radius: 1rem;
   display: flex;
   align-items: center;
@@ -536,7 +536,7 @@ input::placeholder {
 }
 
 .BrandImg2 {
-  background-image: url(MediaAssets/brandImgCard2.png);
+  background-image: url("MediaAssets/brandImgCard2.png");
   border-radius: 1rem;
   display: flex;
   align-items: center;
@@ -544,7 +544,7 @@ input::placeholder {
 }
 
 .BrandImg3 {
-  background-image: url(MediaAssets/brandImgCard3.png);
+  background-image: url("MediaAssets/brandImgCard3.png");
   border-radius: 1rem;
   display: flex;
   align-items: center;
