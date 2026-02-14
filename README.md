@@ -11,7 +11,7 @@ This project replicates the visual design and layout of the Mintlify documentati
 ## Features
 
 - Clean, modern UI design
-- Responsive navigation header with logo and menu items
+- navigation header with logo and menu items
 - Call-to-action buttons for user engagement
 - Smooth styling using custom CSS
 - Professional typography with Google Fonts (Poppins & Roboto)
@@ -19,7 +19,7 @@ This project replicates the visual design and layout of the Mintlify documentati
 
 ## Tech Stack
 
-- **Frontend:** HTML5, CSS3, Vanilla JavaScript
+- **Frontend:** HTML5, CSS3
 - **Build Tool:** Vite
 - **Package Manager:** pnpm
 - **Fonts:** Google Fonts (Poppins, Roboto)
