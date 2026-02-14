@@ -6,6 +6,8 @@ A frontend UI clone of the Mintlify documentation website, built as a learning p
 
 This project replicates the visual design and layout of the Mintlify documentation platform. It showcases modern web design practices with a responsive, professional interface.
 
+<img src="screenshot\Screenshot.png" alt="Mintlify UI Clone Screenshot" width="800">
+
 ## Features
 
 - Clean, modern UI design
